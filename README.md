@@ -1,4 +1,4 @@
-# Virtaulenv and Virtualenv Setup
+# Virtaulenv and Virtualenvwrapper Setup
 
 When starting a new Python project, it's best to keep your project dependencies
 isolated from your host and other potential projects. For Python, two of our
